@@ -77,7 +77,9 @@ The DebouncedButton component accepts the following props:
 
 * `textStyle` : The Styles For Text
 
+## Git Colabration 
 
+- [Github - Repository](https://github.com/PrathmeshRewale/debounced-button)
 ## Authors
 
 - [@prathmeshrewale - github](https://github.com/prathmeshrewale)
@@ -101,4 +103,9 @@ This project is used by the following companies:
 - Blaze Technologies
 - Horizon Metals
 - unimix Metals
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
